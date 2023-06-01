@@ -34,9 +34,9 @@ VARIABLE | REQUIRED | TYPE | DESCRIPTION
 **url\_prompt\_handler** |  required  | string | URL Prompt Handler
 
 ### Supported Actions  
-[test connectivity](#action-test-connectivity) - Validate the asset configuration for connectivity using supplied configuration 
-[check response](#action-check-response) - Check for the Response for given Unique URL 
-[generate url prompt](#action-generate-url-prompt) - Generate URL Prompt
+[test connectivity](#action-test-connectivity) - Validate the asset configuration for connectivity using supplied configuration  
+[check response](#action-check-response) - Check for the Response for given Unique URL  
+[generate url prompt](#action-generate-url-prompt) - Generate URL Prompt  
 
 ## action: 'test connectivity'
 Validate the asset configuration for connectivity supplied configuration\.
